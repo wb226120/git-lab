@@ -41,3 +41,4 @@ Answer 9 - On branch main
 	   nothing to commit, working tree clean
 Answer 10 - The edit online does not change local files
 Answer 11 - The push command shows an error because the files trying to push were updated non locally
+Answer 12 - after the git pull the changes online were reflected locally
